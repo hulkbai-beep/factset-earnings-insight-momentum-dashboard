@@ -1,0 +1,4 @@
+interface:
+  display_name: "FactSet Earnings Momentum Dashboard"
+  short_description: "Operate and validate the earnings dashboard"
+  default_prompt: "Use $factset-earnings-momentum-dashboard to validate and launch the local FactSet research dashboard."
